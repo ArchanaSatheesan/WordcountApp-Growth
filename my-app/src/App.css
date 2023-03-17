@@ -1,0 +1,49 @@
+body{
+  margin:0;
+  background-color: rgb(49, 50, 50);
+}
+
+.container-fluid{
+  
+}
+.paragraph{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 3%;
+  color:rgb(247, 246, 246);
+  font-size: larger;
+  margin-bottom: 1%;
+
+
+  
+}
+
+.btn btn-primary btn-lg{
+  text-align: center;
+  margin-left: 50%;
+  
+
+}
+
+.form-control{
+  text-align: center;
+}
+#show{
+  color:white;
+}
+.table{
+  margin-top: 0%;
+}
+ .edit{
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+  margin-left: 15%;
+}
+ .delete{
+  background-color: rgb(238, 27, 27);
+  border: 1px solid rgb(188, 65, 8);
+  color: white;
+  margin-left: 10%;
+}
+
